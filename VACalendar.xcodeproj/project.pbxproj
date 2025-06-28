@@ -21,6 +21,7 @@
 		60086D80204C712F002097E7 /* VACalendarMonthDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60086D73204C712E002097E7 /* VACalendarMonthDelegate.swift */; };
 		60086D81204C712F002097E7 /* VAMonthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60086D74204C712F002097E7 /* VAMonthView.swift */; };
 		60086D82204C712F002097E7 /* VAMonthHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60086D75204C712F002097E7 /* VAMonthHeaderView.swift */; };
+		EF61C9D62E1001D40066FE9F /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF61C9D52E1001D40066FE9F /* Package.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		60086D73204C712E002097E7 /* VACalendarMonthDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VACalendarMonthDelegate.swift; sourceTree = "<group>"; };
 		60086D74204C712F002097E7 /* VAMonthView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VAMonthView.swift; sourceTree = "<group>"; };
 		60086D75204C712F002097E7 /* VAMonthHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VAMonthHeaderView.swift; sourceTree = "<group>"; };
+		EF61C9D52E1001D40066FE9F /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		60086D53204C707A002097E7 = {
 			isa = PBXGroup;
 			children = (
+				EF61C9D52E1001D40066FE9F /* Package.swift */,
 				60086D5F204C707A002097E7 /* VACalendar */,
 				60086D5E204C707A002097E7 /* Products */,
 			);
@@ -180,6 +183,7 @@
 				60086D7D204C712F002097E7 /* VAMonth.swift in Sources */,
 				60086D82204C712F002097E7 /* VAMonthHeaderView.swift in Sources */,
 				60086D81204C712F002097E7 /* VAMonthView.swift in Sources */,
+				EF61C9D62E1001D40066FE9F /* Package.swift in Sources */,
 				60086D7F204C712F002097E7 /* VAFormatters.swift in Sources */,
 				60086D77204C712F002097E7 /* VADotView.swift in Sources */,
 				60086D79204C712F002097E7 /* VACalendarView.swift in Sources */,

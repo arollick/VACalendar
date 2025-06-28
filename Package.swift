@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .target(
             name: "VACalendar",
-            path: "Sources/VACalendar"
+            path: "VACalendar"
         )
     ]
 )
